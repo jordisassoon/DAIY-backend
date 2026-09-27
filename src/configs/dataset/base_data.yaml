@@ -1,0 +1,10 @@
+dataset_name: thumos
+train_split: [ 'validation' ]
+val_split: [ 'test' ]
+dataset: {
+  file_prefix: ~,
+  # serve as data augmentation
+  trunc_thresh: 0.5,
+  crop_ratio: [ 0.9, 1.0 ],
+  max_seq_len: 2304,
+}

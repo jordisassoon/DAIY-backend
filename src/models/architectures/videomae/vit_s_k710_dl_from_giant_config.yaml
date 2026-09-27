@@ -1,0 +1,10 @@
+frame_window: 16
+stride: 4
+img_size: 224
+pretrained: True
+num_classes: 710
+tubelet_size: 2
+drop_path_rate: 0.3
+use_mean_pooling: True
+feature_size: 384
+base_model: "vit_small_patch16_224"

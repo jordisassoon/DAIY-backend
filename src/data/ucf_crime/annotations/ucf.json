@@ -1,0 +1,2233 @@
+{
+    "version": "UCF",
+    "database": {
+        "Explosion021_x264.mp4": {
+            "subset": "Validation",
+            "duration": 26.066666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        4.5,
+                        9.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents004_x264.mp4": {
+            "subset": "Validation",
+            "duration": 12.966666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        4.666666666666667,
+                        6.3
+                    ]
+                }
+            ]
+        },
+        "Explosion036_x264.mp4": {
+            "subset": "Validation",
+            "duration": 177.56666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        65.0,
+                        69.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting010_x264.mp4": {
+            "subset": "Validation",
+            "duration": 91.2,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        25.0,
+                        30.666666666666668
+                    ]
+                },
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        51.666666666666664,
+                        65.66666666666667
+                    ]
+                }
+            ]
+        },
+        "Shoplifting001_x264.mp4": {
+            "subset": "Validation",
+            "duration": 144.8,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        51.666666666666664,
+                        66.66666666666667
+                    ]
+                }
+            ]
+        },
+        "Explosion020_x264.mp4": {
+            "subset": "Validation",
+            "duration": 43.03333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        2.0,
+                        9.0
+                    ]
+                }
+            ]
+        },
+        "Explosion010_x264.mp4": {
+            "subset": "Validation",
+            "duration": 83.26666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        9.5,
+                        36.0
+                    ]
+                }
+            ]
+        },
+        "Stealing019_x264.mp4": {
+            "subset": "Validation",
+            "duration": 163.7,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Stealing",
+                    "label_id": 3,
+                    "segment": [
+                        91.0,
+                        93.0
+                    ]
+                },
+                {
+                    "label": "Stealing",
+                    "label_id": 3,
+                    "segment": [
+                        139.0,
+                        145.0
+                    ]
+                }
+            ]
+        },
+        "Robbery106_x264.mp4": {
+            "subset": "Validation",
+            "duration": 39.9,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Robbery",
+                    "label_id": 4,
+                    "segment": [
+                        16.0,
+                        20.0
+                    ]
+                }
+            ]
+        },
+        "Shooting015_x264.mp4": {
+            "subset": "Validation",
+            "duration": 57.1,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        28.5,
+                        57.166666666666664
+                    ]
+                }
+            ]
+        },
+        "Shooting021_x264.mp4": {
+            "subset": "Validation",
+            "duration": 42.5,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        16.0,
+                        21.0
+                    ]
+                }
+            ]
+        },
+        "Fighting047_x264.mp4": {
+            "subset": "Validation",
+            "duration": 148.63333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Fighting",
+                    "label_id": 6,
+                    "segment": [
+                        6.666666666666667,
+                        61.0
+                    ]
+                }
+            ]
+        },
+        "Explosion016_x264.mp4": {
+            "subset": "Validation",
+            "duration": 32.1,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        6.0,
+                        15.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents011_x264.mp4": {
+            "subset": "Validation",
+            "duration": 71.96666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        8.666666666666666,
+                        10.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting020_x264.mp4": {
+            "subset": "Validation",
+            "duration": 192.33333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        78.0,
+                        82.0
+                    ]
+                }
+            ]
+        },
+        "Arson022_x264.mp4": {
+            "subset": "Validation",
+            "duration": 288.0,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        116.66666666666667,
+                        133.33333333333334
+                    ]
+                }
+            ]
+        },
+        "Shooting013_x264.mp4": {
+            "subset": "Validation",
+            "duration": 35.766666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        28.666666666666668,
+                        31.5
+                    ]
+                }
+            ]
+        },
+        "Explosion039_x264.mp4": {
+            "subset": "Validation",
+            "duration": 33.266666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        2.0,
+                        5.0
+                    ]
+                }
+            ]
+        },
+        "Shooting047_x264.mp4": {
+            "subset": "Validation",
+            "duration": 276.23333333333335,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        72.0,
+                        130.0
+                    ]
+                },
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        162.0,
+                        220.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting022_x264.mp4": {
+            "subset": "Validation",
+            "duration": 73.03333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        9.0,
+                        14.0
+                    ]
+                },
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        48.0,
+                        52.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents132_x264.mp4": {
+            "subset": "Validation",
+            "duration": 62.06666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        7.333333333333333,
+                        10.666666666666666
+                    ]
+                }
+            ]
+        },
+        "Explosion025_x264.mp4": {
+            "subset": "Validation",
+            "duration": 16.833333333333332,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        8.666666666666666,
+                        14.0
+                    ]
+                }
+            ]
+        },
+        "Burglary033_x264.mp4": {
+            "subset": "Validation",
+            "duration": 41.96666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        2.0,
+                        11.0
+                    ]
+                }
+            ]
+        },
+        "Shooting034_x264.mp4": {
+            "subset": "Validation",
+            "duration": 46.96666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        32.0,
+                        35.0
+                    ]
+                }
+            ]
+        },
+        "Explosion002_x264.mp4": {
+            "subset": "Validation",
+            "duration": 133.76666666666668,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        50.0,
+                        70.0
+                    ]
+                }
+            ]
+        },
+        "Robbery048_x264.mp4": {
+            "subset": "Validation",
+            "duration": 46.96666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Robbery",
+                    "label_id": 4,
+                    "segment": [
+                        15.0,
+                        31.0
+                    ]
+                }
+            ]
+        },
+        "Vandalism028_x264.mp4": {
+            "subset": "Validation",
+            "duration": 149.83333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Vandalism",
+                    "label_id": 9,
+                    "segment": [
+                        61.0,
+                        66.0
+                    ]
+                },
+                {
+                    "label": "Vandalism",
+                    "label_id": 9,
+                    "segment": [
+                        80.0,
+                        89.0
+                    ]
+                }
+            ]
+        },
+        "Shooting010_x264.mp4": {
+            "subset": "Validation",
+            "duration": 88.03333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        36.5,
+                        42.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents020_x264.mp4": {
+            "subset": "Validation",
+            "duration": 59.1,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        20.333333333333332,
+                        24.333333333333332
+                    ]
+                }
+            ]
+        },
+        "Shoplifting027_x264.mp4": {
+            "subset": "Validation",
+            "duration": 62.43333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        36.0,
+                        38.666666666666664
+                    ]
+                },
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        49.0,
+                        57.0
+                    ]
+                }
+            ]
+        },
+        "Shooting046_x264.mp4": {
+            "subset": "Validation",
+            "duration": 169.6,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        133.5,
+                        141.0
+                    ]
+                },
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        158.66666666666666,
+                        169.6
+                    ]
+                }
+            ]
+        },
+        "Shoplifting017_x264.mp4": {
+            "subset": "Validation",
+            "duration": 15.233333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        12.0,
+                        14.0
+                    ]
+                }
+            ]
+        },
+        "Stealing079_x264.mp4": {
+            "subset": "Validation",
+            "duration": 194.86666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Stealing",
+                    "label_id": 3,
+                    "segment": [
+                        85.0,
+                        107.0
+                    ]
+                },
+                {
+                    "label": "Stealing",
+                    "label_id": 3,
+                    "segment": [
+                        117.0,
+                        150.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting029_x264.mp4": {
+            "subset": "Validation",
+            "duration": 72.53333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        34.0,
+                        49.0
+                    ]
+                }
+            ]
+        },
+        "Explosion022_x264.mp4": {
+            "subset": "Validation",
+            "duration": 119.8,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        74.33333333333333,
+                        80.66666666666667
+                    ]
+                }
+            ]
+        },
+        "Vandalism007_x264.mp4": {
+            "subset": "Validation",
+            "duration": 38.2,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Vandalism",
+                    "label_id": 9,
+                    "segment": [
+                        8.0,
+                        25.0
+                    ]
+                }
+            ]
+        },
+        "Shooting004_x264.mp4": {
+            "subset": "Validation",
+            "duration": 59.766666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        16.666666666666668,
+                        22.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents121_x264.mp4": {
+            "subset": "Validation",
+            "duration": 61.166666666666664,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        11.0,
+                        13.0
+                    ]
+                }
+            ]
+        },
+        "Arson009_x264.mp4": {
+            "subset": "Validation",
+            "duration": 24.766666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        7.333333333333333,
+                        10.5
+                    ]
+                }
+            ]
+        },
+        "Arrest001_x264.mp4": {
+            "subset": "Validation",
+            "duration": 79.13333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arrest",
+                    "label_id": 10,
+                    "segment": [
+                        39.5,
+                        49.5
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents017_x264.mp4": {
+            "subset": "Validation",
+            "duration": 8.1,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        2.0,
+                        4.333333333333333
+                    ]
+                }
+            ]
+        },
+        "Shoplifting034_x264.mp4": {
+            "subset": "Validation",
+            "duration": 397.9,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        245.0,
+                        249.0
+                    ]
+                }
+            ]
+        },
+        "Burglary032_x264.mp4": {
+            "subset": "Validation",
+            "duration": 526.5,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        43.0,
+                        123.0
+                    ]
+                }
+            ]
+        },
+        "Arson016_x264.mp4": {
+            "subset": "Validation",
+            "duration": 59.833333333333336,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        33.333333333333336,
+                        59.86666666666667
+                    ]
+                }
+            ]
+        },
+        "Shoplifting039_x264.mp4": {
+            "subset": "Validation",
+            "duration": 93.43333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        73.0,
+                        78.0
+                    ]
+                }
+            ]
+        },
+        "Arson010_x264.mp4": {
+            "subset": "Validation",
+            "duration": 105.3,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        29.5,
+                        41.0
+                    ]
+                }
+            ]
+        },
+        "Robbery137_x264.mp4": {
+            "subset": "Validation",
+            "duration": 73.1,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Robbery",
+                    "label_id": 4,
+                    "segment": [
+                        4.5,
+                        65.0
+                    ]
+                }
+            ]
+        },
+        "Arson041_x264.mp4": {
+            "subset": "Validation",
+            "duration": 125.13333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        71.0,
+                        120.5
+                    ]
+                }
+            ]
+        },
+        "Assault010_x264.mp4": {
+            "subset": "Validation",
+            "duration": 539.2333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Assault",
+                    "label_id": 11,
+                    "segment": [
+                        377.6666666666667,
+                        389.3333333333333
+                    ]
+                },
+                {
+                    "label": "Assault",
+                    "label_id": 11,
+                    "segment": [
+                        408.6666666666667,
+                        431.0
+                    ]
+                }
+            ]
+        },
+        "Explosion033_x264.mp4": {
+            "subset": "Validation",
+            "duration": 105.13333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        32.333333333333336,
+                        45.0
+                    ]
+                },
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        51.666666666666664,
+                        105.2
+                    ]
+                }
+            ]
+        },
+        "Fighting003_x264.mp4": {
+            "subset": "Validation",
+            "duration": 103.4,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Fighting",
+                    "label_id": 6,
+                    "segment": [
+                        60.666666666666664,
+                        103.43333333333334
+                    ]
+                }
+            ]
+        },
+        "Burglary037_x264.mp4": {
+            "subset": "Validation",
+            "duration": 64.0,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        8.0,
+                        13.0
+                    ]
+                },
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        18.0,
+                        60.0
+                    ]
+                }
+            ]
+        },
+        "Fighting042_x264.mp4": {
+            "subset": "Validation",
+            "duration": 74.56666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Fighting",
+                    "label_id": 6,
+                    "segment": [
+                        9.666666666666666,
+                        40.0
+                    ]
+                }
+            ]
+        },
+        "Shooting019_x264.mp4": {
+            "subset": "Validation",
+            "duration": 91.86666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        34.0,
+                        48.5
+                    ]
+                }
+            ]
+        },
+        "Explosion027_x264.mp4": {
+            "subset": "Validation",
+            "duration": 25.866666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        3.5,
+                        6.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting031_x264.mp4": {
+            "subset": "Validation",
+            "duration": 14.9,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        4.0,
+                        11.0
+                    ]
+                }
+            ]
+        },
+        "Assault011_x264.mp4": {
+            "subset": "Validation",
+            "duration": 76.26666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Assault",
+                    "label_id": 11,
+                    "segment": [
+                        12.5,
+                        32.0
+                    ]
+                }
+            ]
+        },
+        "Stealing058_x264.mp4": {
+            "subset": "Validation",
+            "duration": 166.36666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Stealing",
+                    "label_id": 3,
+                    "segment": [
+                        19.0,
+                        122.0
+                    ]
+                }
+            ]
+        },
+        "Shooting048_x264.mp4": {
+            "subset": "Validation",
+            "duration": 91.36666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        47.0,
+                        57.666666666666664
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents009_x264.mp4": {
+            "subset": "Validation",
+            "duration": 30.6,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        7.0,
+                        8.0
+                    ]
+                }
+            ]
+        },
+        "Shooting043_x264.mp4": {
+            "subset": "Validation",
+            "duration": 62.46666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        31.5,
+                        41.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents133_x264.mp4": {
+            "subset": "Validation",
+            "duration": 22.433333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        9.0,
+                        15.0
+                    ]
+                }
+            ]
+        },
+        "Arrest039_x264.mp4": {
+            "subset": "Validation",
+            "duration": 527.8333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arrest",
+                    "label_id": 10,
+                    "segment": [
+                        240.5,
+                        344.5
+                    ]
+                }
+            ]
+        },
+        "Arson018_x264.mp4": {
+            "subset": "Validation",
+            "duration": 28.066666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        9.0,
+                        20.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents122_x264.mp4": {
+            "subset": "Validation",
+            "duration": 21.566666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        10.0,
+                        12.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents021_x264.mp4": {
+            "subset": "Validation",
+            "duration": 5.166666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        1.0,
+                        3.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting037_x264.mp4": {
+            "subset": "Validation",
+            "duration": 46.2,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        38.0,
+                        40.0
+                    ]
+                }
+            ]
+        },
+        "Shooting018_x264.mp4": {
+            "subset": "Validation",
+            "duration": 59.96666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        10.5,
+                        16.0
+                    ]
+                }
+            ]
+        },
+        "Explosion029_x264.mp4": {
+            "subset": "Validation",
+            "duration": 80.33333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        61.0,
+                        67.33333333333333
+                    ]
+                }
+            ]
+        },
+        "Assault006_x264.mp4": {
+            "subset": "Validation",
+            "duration": 269.8666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Assault",
+                    "label_id": 11,
+                    "segment": [
+                        39.5,
+                        269.8666666666667
+                    ]
+                }
+            ]
+        },
+        "Shooting008_x264.mp4": {
+            "subset": "Validation",
+            "duration": 54.166666666666664,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        2.5,
+                        10.5
+                    ]
+                }
+            ]
+        },
+        "Explosion013_x264.mp4": {
+            "subset": "Validation",
+            "duration": 110.56666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        84.0,
+                        99.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents001_x264.mp4": {
+            "subset": "Validation",
+            "duration": 45.53333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        7.0,
+                        10.0
+                    ]
+                }
+            ]
+        },
+        "Stealing036_x264.mp4": {
+            "subset": "Validation",
+            "duration": 83.43333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Stealing",
+                    "label_id": 3,
+                    "segment": [
+                        42.0,
+                        53.0
+                    ]
+                }
+            ]
+        },
+        "Vandalism017_x264.mp4": {
+            "subset": "Validation",
+            "duration": 33.7,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Vandalism",
+                    "label_id": 9,
+                    "segment": [
+                        9.0,
+                        11.0
+                    ]
+                },
+                {
+                    "label": "Vandalism",
+                    "label_id": 9,
+                    "segment": [
+                        26.0,
+                        28.0
+                    ]
+                }
+            ]
+        },
+        "Shooting033_x264.mp4": {
+            "subset": "Validation",
+            "duration": 121.0,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        56.0,
+                        66.66666666666667
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents125_x264.mp4": {
+            "subset": "Validation",
+            "duration": 59.03333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        16.333333333333332,
+                        20.0
+                    ]
+                }
+            ]
+        },
+        "Explosion017_x264.mp4": {
+            "subset": "Validation",
+            "duration": 54.766666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        33.0,
+                        48.0
+                    ]
+                }
+            ]
+        },
+        "Explosion035_x264.mp4": {
+            "subset": "Validation",
+            "duration": 95.5,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        8.333333333333334,
+                        11.666666666666666
+                    ]
+                }
+            ]
+        },
+        "Arrest024_x264.mp4": {
+            "subset": "Validation",
+            "duration": 120.96666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arrest",
+                    "label_id": 10,
+                    "segment": [
+                        33.5,
+                        103.5
+                    ]
+                }
+            ]
+        },
+        "Shoplifting005_x264.mp4": {
+            "subset": "Validation",
+            "duration": 65.56666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        24.0,
+                        31.0
+                    ]
+                }
+            ]
+        },
+        "Burglary017_x264.mp4": {
+            "subset": "Validation",
+            "duration": 70.43333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        5.0,
+                        20.0
+                    ]
+                }
+            ]
+        },
+        "Robbery102_x264.mp4": {
+            "subset": "Validation",
+            "duration": 60.9,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Robbery",
+                    "label_id": 4,
+                    "segment": [
+                        36.0,
+                        52.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents128_x264.mp4": {
+            "subset": "Validation",
+            "duration": 18.833333333333332,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        3.0,
+                        6.666666666666667
+                    ]
+                }
+            ]
+        },
+        "Arson035_x264.mp4": {
+            "subset": "Validation",
+            "duration": 47.9,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        20.0,
+                        30.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents131_x264.mp4": {
+            "subset": "Validation",
+            "duration": 50.8,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        6.0,
+                        8.0
+                    ]
+                }
+            ]
+        },
+        "Arrest007_x264.mp4": {
+            "subset": "Validation",
+            "duration": 104.8,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arrest",
+                    "label_id": 10,
+                    "segment": [
+                        51.0,
+                        72.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting007_x264.mp4": {
+            "subset": "Validation",
+            "duration": 170.8,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        18.333333333333332,
+                        25.333333333333332
+                    ]
+                },
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        154.33333333333334,
+                        164.0
+                    ]
+                }
+            ]
+        },
+        "Vandalism036_x264.mp4": {
+            "subset": "Validation",
+            "duration": 48.1,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Vandalism",
+                    "label_id": 9,
+                    "segment": [
+                        18.0,
+                        26.0
+                    ]
+                },
+                {
+                    "label": "Vandalism",
+                    "label_id": 9,
+                    "segment": [
+                        33.0,
+                        36.0
+                    ]
+                }
+            ]
+        },
+        "Shooting002_x264.mp4": {
+            "subset": "Validation",
+            "duration": 40.2,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        34.0,
+                        36.666666666666664
+                    ]
+                }
+            ]
+        },
+        "Abuse028_x264.mp4": {
+            "subset": "Validation",
+            "duration": 47.06666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Abuse",
+                    "label_id": 12,
+                    "segment": [
+                        5.5,
+                        8.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting044_x264.mp4": {
+            "subset": "Validation",
+            "duration": 485.1666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        369.0,
+                        375.0
+                    ]
+                }
+            ]
+        },
+        "Abuse030_x264.mp4": {
+            "subset": "Validation",
+            "duration": 51.46666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Abuse",
+                    "label_id": 12,
+                    "segment": [
+                        42.5,
+                        45.333333333333336
+                    ]
+                }
+            ]
+        },
+        "Burglary005_x264.mp4": {
+            "subset": "Validation",
+            "duration": 257.6333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        157.0,
+                        168.0
+                    ]
+                }
+            ]
+        },
+        "Arson011_x264.mp4": {
+            "subset": "Validation",
+            "duration": 42.2,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        5.0,
+                        14.0
+                    ]
+                },
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        22.666666666666668,
+                        42.233333333333334
+                    ]
+                }
+            ]
+        },
+        "Shooting024_x264.mp4": {
+            "subset": "Validation",
+            "duration": 66.76666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        24.0,
+                        43.5
+                    ]
+                }
+            ]
+        },
+        "Arson007_x264.mp4": {
+            "subset": "Validation",
+            "duration": 208.4,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arson",
+                    "label_id": 7,
+                    "segment": [
+                        75.0,
+                        190.0
+                    ]
+                }
+            ]
+        },
+        "Shooting011_x264.mp4": {
+            "subset": "Validation",
+            "duration": 133.43333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        49.333333333333336,
+                        58.333333333333336
+                    ]
+                }
+            ]
+        },
+        "Shoplifting015_x264.mp4": {
+            "subset": "Validation",
+            "duration": 75.2,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        67.0,
+                        72.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents022_x264.mp4": {
+            "subset": "Validation",
+            "duration": 23.866666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        4.0,
+                        7.333333333333333
+                    ]
+                }
+            ]
+        },
+        "Shooting028_x264.mp4": {
+            "subset": "Validation",
+            "duration": 63.266666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        9.5,
+                        18.5
+                    ]
+                }
+            ]
+        },
+        "Shoplifting016_x264.mp4": {
+            "subset": "Validation",
+            "duration": 49.43333333333333,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        21.0,
+                        24.0
+                    ]
+                }
+            ]
+        },
+        "Burglary079_x264.mp4": {
+            "subset": "Validation",
+            "duration": 495.1,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        258.3333333333333,
+                        357.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting021_x264.mp4": {
+            "subset": "Validation",
+            "duration": 118.36666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        69.0,
+                        74.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents016_x264.mp4": {
+            "subset": "Validation",
+            "duration": 73.06666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        17.666666666666668,
+                        24.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting004_x264.mp4": {
+            "subset": "Validation",
+            "duration": 222.43333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        73.33333333333333,
+                        163.33333333333334
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents124_x264.mp4": {
+            "subset": "Validation",
+            "duration": 49.833333333333336,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        8.333333333333334,
+                        14.0
+                    ]
+                }
+            ]
+        },
+        "Explosion011_x264.mp4": {
+            "subset": "Validation",
+            "duration": 52.36666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        26.5,
+                        31.5
+                    ]
+                }
+            ]
+        },
+        "Vandalism015_x264.mp4": {
+            "subset": "Validation",
+            "duration": 99.4,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Vandalism",
+                    "label_id": 9,
+                    "segment": [
+                        67.0,
+                        90.0
+                    ]
+                }
+            ]
+        },
+        "Shooting022_x264.mp4": {
+            "subset": "Validation",
+            "duration": 151.8,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        95.0,
+                        110.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents002_x264.mp4": {
+            "subset": "Validation",
+            "duration": 11.566666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        8.0,
+                        10.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents019_x264.mp4": {
+            "subset": "Validation",
+            "duration": 43.8,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        25.0,
+                        30.0
+                    ]
+                }
+            ]
+        },
+        "Shooting037_x264.mp4": {
+            "subset": "Test",
+            "duration": 10.166666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        4.666666666666667,
+                        8.666666666666666
+                    ]
+                }
+            ]
+        },
+        "Explosion028_x264.mp4": {
+            "subset": "Test",
+            "duration": 56.833333333333336,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        9.333333333333334,
+                        23.333333333333332
+                    ]
+                }
+            ]
+        },
+        "Fighting018_x264.mp4": {
+            "subset": "Test",
+            "duration": 46.3,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Fighting",
+                    "label_id": 6,
+                    "segment": [
+                        2.6666666666666665,
+                        14.0
+                    ]
+                }
+            ]
+        },
+        "Shooting007_x264.mp4": {
+            "subset": "Test",
+            "duration": 47.666666666666664,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        1.5,
+                        5.5
+                    ]
+                }
+            ]
+        },
+        "Explosion007_x264.mp4": {
+            "subset": "Test",
+            "duration": 542.9666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        53.0,
+                        76.0
+                    ]
+                }
+            ]
+        },
+        "Shooting032_x264.mp4": {
+            "subset": "Test",
+            "duration": 722.7,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        266.5,
+                        273.5
+                    ]
+                }
+            ]
+        },
+        "Burglary076_x264.mp4": {
+            "subset": "Test",
+            "duration": 430.76666666666665,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        53.0,
+                        143.33333333333334
+                    ]
+                }
+            ]
+        },
+        "Burglary092_x264.mp4": {
+            "subset": "Test",
+            "duration": 20.833333333333332,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        8.0,
+                        14.0
+                    ]
+                }
+            ]
+        },
+        "Shooting026_x264.mp4": {
+            "subset": "Test",
+            "duration": 46.766666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shooting",
+                    "label_id": 5,
+                    "segment": [
+                        6.5,
+                        20.0
+                    ]
+                }
+            ]
+        },
+        "Explosion004_x264.mp4": {
+            "subset": "Test",
+            "duration": 63.4,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        2.5,
+                        7.5
+                    ]
+                }
+            ]
+        },
+        "Burglary021_x264.mp4": {
+            "subset": "Test",
+            "duration": 51.233333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        2.0,
+                        6.666666666666667
+                    ]
+                },
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        28.0,
+                        44.666666666666664
+                    ]
+                }
+            ]
+        },
+        "Explosion008_x264.mp4": {
+            "subset": "Test",
+            "duration": 58.266666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        33.5,
+                        41.5
+                    ]
+                }
+            ]
+        },
+        "Burglary018_x264.mp4": {
+            "subset": "Test",
+            "duration": 37.5,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        24.0,
+                        35.0
+                    ]
+                }
+            ]
+        },
+        "Stealing062_x264.mp4": {
+            "subset": "Test",
+            "duration": 52.0,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Stealing",
+                    "label_id": 3,
+                    "segment": [
+                        12.0,
+                        35.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting033_x264.mp4": {
+            "subset": "Test",
+            "duration": 29.966666666666665,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        21.0,
+                        25.0
+                    ]
+                }
+            ]
+        },
+        "Fighting033_x264.mp4": {
+            "subset": "Test",
+            "duration": 36.833333333333336,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Fighting",
+                    "label_id": 6,
+                    "segment": [
+                        19.0,
+                        28.0
+                    ]
+                }
+            ]
+        },
+        "Arrest030_x264.mp4": {
+            "subset": "Test",
+            "duration": 288.06666666666666,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Arrest",
+                    "label_id": 10,
+                    "segment": [
+                        184.5,
+                        240.0
+                    ]
+                }
+            ]
+        },
+        "Burglary035_x264.mp4": {
+            "subset": "Test",
+            "duration": 135.0,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        0.03333333333333333,
+                        58.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents127_x264.mp4": {
+            "subset": "Test",
+            "duration": 86.0,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        72.0,
+                        76.66666666666667
+                    ]
+                }
+            ]
+        },
+        "Burglary061_x264.mp4": {
+            "subset": "Test",
+            "duration": 299.6666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        140.0,
+                        190.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting028_x264.mp4": {
+            "subset": "Test",
+            "duration": 45.233333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        19.0,
+                        28.0
+                    ]
+                }
+            ]
+        },
+        "Shoplifting049_x264.mp4": {
+            "subset": "Test",
+            "duration": 71.63333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Shoplifting",
+                    "label_id": 2,
+                    "segment": [
+                        34.0,
+                        45.0
+                    ]
+                }
+            ]
+        },
+        "Explosion043_x264.mp4": {
+            "subset": "Test",
+            "duration": 254.86666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Explosion",
+                    "label_id": 0,
+                    "segment": [
+                        148.66666666666666,
+                        153.33333333333334
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents012_x264.mp4": {
+            "subset": "Test",
+            "duration": 15.6,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        8.333333333333334,
+                        13.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents123_x264.mp4": {
+            "subset": "Test",
+            "duration": 33.5,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        4.333333333333333,
+                        7.0
+                    ]
+                }
+            ]
+        },
+        "Burglary024_x264.mp4": {
+            "subset": "Test",
+            "duration": 120.16666666666667,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Burglary",
+                    "label_id": 8,
+                    "segment": [
+                        2.0,
+                        41.0
+                    ]
+                }
+            ]
+        },
+        "Robbery050_x264.mp4": {
+            "subset": "Test",
+            "duration": 56.7,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "Robbery",
+                    "label_id": 4,
+                    "segment": [
+                        16.5,
+                        47.0
+                    ]
+                }
+            ]
+        },
+        "RoadAccidents010_x264.mp4": {
+            "subset": "Test",
+            "duration": 17.6,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "RoadAccidents",
+                    "label_id": 1,
+                    "segment": [
+                        7.666666666666667,
+                        9.0
+                    ]
+                }
+            ]
+        }
+    }
+}
