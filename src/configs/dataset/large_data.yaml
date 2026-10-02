@@ -1,5 +1,5 @@
 dataset_name: thumos
-train_split: [ 'validation' ]
+train_split: [ 'train' ]
 val_split: [ 'test' ]
 dataset: {
   file_prefix: ~,
