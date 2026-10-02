@@ -1,5 +1,5 @@
 dataset_name: thumos
-train_split: [ 'validation' ]
+train_split: [ 'train' ]
 val_split: [ 'test' ]
 dataset: {
   json_file: ./data/thumos/annotations/thumos14.json,
